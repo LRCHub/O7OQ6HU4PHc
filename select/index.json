@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ULTRA RARE",
+  "base_artist": "Tohji",
+  "createdAt": "2025-12-02T07:55:31.891441Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ultra Rare",
+      "artist": "EARTHGANG",
+      "has_synced": true,
+      "path": "select/01_Ultra_Rare_EARTHGANG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ultra Rare",
+      "artist": "Josh A",
+      "has_synced": true,
+      "path": "select/02_Ultra_Rare_Josh_A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ULTRA RARE",
+      "artist": "Gianni Suave",
+      "has_synced": true,
+      "path": "select/03_ULTRA_RARE_Gianni_Suave.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ULTRA RARE",
+      "artist": "Tohji",
+      "has_synced": true,
+      "path": "select/04_ULTRA_RARE_Tohji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ULTRA RARE",
+      "artist": "Tohji",
+      "has_synced": true,
+      "path": "select/05_ULTRA_RARE_Tohji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ULTRA RARE",
+      "artist": "Tohji",
+      "has_synced": false,
+      "path": "select/pl_01_ULTRA_RARE_Tohji.txt"
+    }
+  ]
+}
